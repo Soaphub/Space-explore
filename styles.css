@@ -289,7 +289,12 @@ hr {
     text-align: center;
   }
 
-  p, #crewpage-content.content{
+  p{
+    padding: 0px;
+    font-size: 2rem;
+  }
+  
+  #crewpage-content.content{
     padding: 0px;
   }
 
