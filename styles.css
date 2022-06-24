@@ -139,8 +139,8 @@ hr {
 }
 
 #crewpage-content .carousel-indicators [data-bs-target] {
-  width: 0.7rem;
-  height: 0.7rem;
+  width: 1.5rem;
+  height: 1.5rem;
   border: 1px solid;
   border-radius: 50%;
 }
@@ -282,6 +282,7 @@ hr {
     z-index: 3;
     left: 10%;
     height: 1500px;
+    font-size: 1.8rem;
   }
 
   /* Content */
