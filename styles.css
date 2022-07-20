@@ -81,7 +81,7 @@ hr {
   padding-bottom: 30px;
 }
 
-.navbar-text a:hover, .navbar-text a:focus{
+.navbar-text a:hover, .navbar-text a:focus, .navbar-text .active{
  color: rgb(247, 249, 253);
  font-weight: bold;
  border-bottom: white solid 1px;
