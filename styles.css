@@ -81,18 +81,11 @@ hr {
   padding-bottom: 30px;
 }
 
-.navbar-text a:hover {
+.navbar-text a:hover, .navbar-text a:focus{
  color: rgb(247, 249, 253);
  font-weight: bold;
  border-bottom: white solid 1px;
 }
-
-.navbar-text.active{
-  color: rgb(247, 249, 253);
-  font-weight: bold;
-  border-bottom: white solid 2px;
-}
-
 
 .horizontal-line{
   display: inline-block;
